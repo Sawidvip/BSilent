@@ -1,4 +1,18 @@
 {
   "bypassVersion": 2,
-  "mainURL": "https://github.com/Sawidvip/BSilent/raw/main/assets.zip"
+  "mainURL": "https://github.com/Sawidvip/BSilent/raw/main/assets.zip",
+  "gamesList": [
+    {
+      "title": "GL",
+      "package": "com.tencent.ig",
+      "version": "4.3",
+      "status": "SAFE"
+    },
+    {
+      "title": "KR",
+      "package": "com.pubg.krmobile",
+      "version": "4.3",
+      "status": "SAFE"
+    }
+  ]
 }
